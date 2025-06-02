@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplicationdeneme001", "PythonApplicationdeneme001\PythonApplicationdeneme001.pyproj", "{2C6F33CC-05D1-4076-8455-26F7A5617969}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C6F33CC-05D1-4076-8455-26F7A5617969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C6F33CC-05D1-4076-8455-26F7A5617969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {556D17F9-04E7-474F-97A5-69030FF622B4}
+	EndGlobalSection
+EndGlobal
